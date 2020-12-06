@@ -1,0 +1,81 @@
+//مختصر فى loop
+/*
+    //cursor pointer
+    //html
+    my4ht1.classList.add("bot"); 
+    my4ht2.classList.add("bot");
+    my4ht3.classList.add("bot");
+    my4ht4.classList.add("bot");
+    my4ht5.classList.add("bot");
+    my4ht6.classList.add("bot");
+    my4ht7.classList.add("bot");
+    my4ht8.classList.add("bot");
+    my4ht9.classList.add("bot");
+    my4ht10.classList.add("bot");
+    my4ht11.classList.add("bot");
+    my4ht12.classList.add("bot");
+    my4ht13.classList.add("bot");
+    my4ht14.classList.add("bot");
+    my4ht15.classList.add("bot");
+    my4ht16.classList.add("bot");
+    
+
+    //jsbom
+    mybom1.classList.add("bot");
+    mybom2.classList.add("bot");
+    mybom3.classList.add("bot");
+    mybom4.classList.add("bot");
+    mybom5.classList.add("bot");
+    mybom6.classList.add("bot");
+    mybom7.classList.add("bot");
+    mybom8.classList.add("bot");
+    mybom9.classList.add("bot");
+    mybom10.classList.add("bot");
+    mybom11.classList.add("bot");
+    mybom12.classList.add("bot");
+    mybom13.classList.add("bot");
+    mybom14.classList.add("bot");
+    mybom15.classList.add("bot");
+    mybom16.classList.add("bot");
+    mybom17.classList.add("bot");
+    mybom18.classList.add("bot");
+    mybom19.classList.add("bot");
+    mybom12.classList.add("bot");
+    mybom21.classList.add("bot");
+    mybom22.classList.add("bot");
+    mybom23.classList.add("bot");
+    mybom24.classList.add("bot");
+    mybom25.classList.add("bot");
+    mybom26.classList.add("bot");
+    mybom27.classList.add("bot");
+    mybom28.classList.add("bot");
+    mybom29.classList.add("bot");
+    mybom30.classList.add("bot");
+    mybom31.classList.add("bot");
+    mybom32.classList.add("bot");
+*/
+/*
+my4ht1d.classList.remove("show");
+    my4ht2d.classList.remove("show");
+    my4ht3d.classList.remove("show");
+    my4ht4d.classList.remove("show");
+    my4ht5d.classList.remove("show");
+    my4ht6d.classList.remove("show");
+    my4ht7d.classList.remove("show");
+    my4ht8d.classList.remove("show");
+    my4ht9d.classList.remove("show");
+    my4ht10d.classList.remove("show");
+    my4ht11d.classList.remove("show");
+    my4ht12d.classList.remove("show");
+    my4ht13d.classList.remove("show");
+    my4ht14d.classList.remove("show");
+    my4ht15d.classList.remove("show");
+    my4ht16d.classList.remove("show");
+    //css
+    mycss1d.classList.remove("show");
+    mycss2d.classList.remove("show");
+    
+    //js
+    mydom1d.classList.remove("show");
+    mydom2d.classList.remove("show");
+*/
